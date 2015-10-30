@@ -1,0 +1,10 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = "Master.cshtml";
+}
+<legend>Members</legend>
+
+
+@Umbraco.RenderMacro("generateMembers2")
+	
+@Umbraco.RenderMacro("generateProspectMembers")

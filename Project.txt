@@ -1,4 +1,1 @@
-Admin user name: lucian password: naked2010
-Members: Acive - sam: naked2010
-               - mike: naked2010
-         Prospect - gabor: naked2010
+AarhusWebDevCoop 2 is a website I created in Drupal CMS and serves for a school asigment. Here users can log in and have access to restricted content

@@ -1,1 +1,1 @@
-AarhusWebDevCoop 2 is a website I created in Drupal CMS and serves for a school asigment. Here users can log in and have access to restricted content
+AarhusWebDevCoop 2 is a website I created in Umbraco CMS and serves for a school asigment.
